@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">- 👨🏻‍💻 Bachelor in Computer Science <br>- 👮🏻 Police Officer and Software Developer at the Military Police of São Paulo State<br>- 📝 English language student<br>- 🧠  Oh, and a lover of new learning experiences!<br><br>   My focus is on improving my code</p>
+<p align="center">- 👨🏻‍💻 Bachelor in Computer Science <br>- 👮🏻Software Developer at the Military Police of São Paulo State<br>- 📝 English language student<br>- 🧠  Oh, and a lover of new learning experiences!<br><br>   My focus is on improving my code</p>
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/edsongaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
