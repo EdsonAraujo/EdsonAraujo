@@ -43,8 +43,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EdsonAraujo/EdsonAraujo/output/snake.svg" alt="Snake animation" />
 
-###
- 
 
